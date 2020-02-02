@@ -12,7 +12,7 @@ Differences between the formats of EU and US and different dates.
 
 Distribution of years, months and days between EU and US formats.
 
-![Differences in EU and US format](./img/02.png)
+![Differences in EU and US format](./img/2.png)
 
 
 
