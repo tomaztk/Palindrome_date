@@ -7,6 +7,15 @@ and calculate the differences between EU and US date formats.
 
 R code consists of Palindrome function and ggplot graphs.
 
+Differences between the formats of EU and US and different dates.
+![Differences in EU and US format](./img/01.png)
+
+Distribution of years, months and days between EU and US formats.
+
+![Differences in EU and US format](./img/02.png)
+
+
+
 ## Cloning the repository
 You can follow the steps below to clone the repository. 
 ```
